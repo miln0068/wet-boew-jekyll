@@ -6,7 +6,7 @@ title: Jekyll variant
 language: en
 altLangPrefix: index
 dateModified: "2014-05-27"
-description: "Jekyll variant - Web Experience Toolkit (WET)"
+description: "TESTTESTJekyll variant - Web Experience Toolkit (WET)"
 ---
 
 ## Normal Web pages
