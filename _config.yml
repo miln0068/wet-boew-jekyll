@@ -3,12 +3,12 @@
 content_editable: true
 content_revision_history: true
 content_questions_comments: true
-url: "http://wet-boew.github.io/wet-boew-jekyll/"
-repo_name: "wet-boew-jekyll"
+url: "https://miln0068.github.io/wet-boew-jekyll/"
+repo_name: "miln0068/wet-boew-jekyll"
 branch: "master"
 
 #global settings, no need to change these
-root_url: "http://wet-boew.github.io/wet-boew-jekyll/"
+root_url: "https://miln0068.github.io/wet-boew-jekyll/"
 org_name: "wet-boew"
 prose_url: "http://prose.io"
 encoding: utf-8
@@ -17,5 +17,5 @@ encoding: utf-8
 markdown: kramdown
 
 # default build settings for running locally, no need to edit
-pymgemnts: true
+pygments: true
 exclude: ["script", "vendor", "Gemfile", "Gemfile.lock", "Rakefile", "README.md", ".*"]
