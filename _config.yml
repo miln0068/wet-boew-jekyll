@@ -5,7 +5,7 @@ content_revision_history: true
 content_questions_comments: true
 url: "http://wet-boew.github.io/wet-boew-jekyll/"
 repo_name: "wet-boew-jekyll"
-branch: "master"
+branch: "gh-pages"
 
 #global settings, no need to change these
 root_url: "http://wet-boew.github.io/wet-boew-jekyll/"
