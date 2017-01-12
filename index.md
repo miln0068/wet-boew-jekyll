@@ -1,7 +1,7 @@
 ---
 published: true
 layout: "theme-wet-boew/default"
-permalink: "index-en.html"
+permalink: "index.html"
 title: Jekyll variant
 language: en
 altLangPrefix: index
